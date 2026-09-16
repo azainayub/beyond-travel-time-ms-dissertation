@@ -1,0 +1,53 @@
+{
+  "SPEED_FEATS": [
+    "hour",
+    "dayofweek",
+    "month",
+    "is_weekend",
+    "is_rush",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos",
+    "spd_lag1",
+    "spd_lag2",
+    "spd_lag3",
+    "no2_lag1",
+    "pm25_lag1"
+  ],
+  "NO2_FEATS": [
+    "hour",
+    "dayofweek",
+    "month",
+    "is_weekend",
+    "is_rush",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos",
+    "spd_lag1",
+    "spd_lag2",
+    "spd_lag3"
+  ],
+  "PM25_FEATS": [
+    "hour",
+    "dayofweek",
+    "month",
+    "is_weekend",
+    "is_rush",
+    "hour_sin",
+    "hour_cos",
+    "dow_sin",
+    "dow_cos",
+    "spd_lag1",
+    "spd_lag2",
+    "spd_lag3",
+    "no2_lag1"
+  ],
+  "DATE_START": "2025-10-06",
+  "DATE_END": "2025-10-12",
+  "n_segments": 1039,
+  "n_real_aq": 1024,
+  "n_synth_aq": 15,
+  "total": 1039
+}
