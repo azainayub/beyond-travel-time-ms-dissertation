@@ -1,5 +1,7 @@
 # Beyond Travel Time: Multi-Objective Route Optimization using Symbolic Regression
 
+![Screenshot of example route alternatives from Loop -> O'Hare (Chicago City) at Friday night time](/loop-to-o'hare-late-night-friday.png)
+
 **Azain Ayub - MSc Artificial Intelligence, Aston University**  
 Supervised by (https://research.aston.ac.uk/en/persons/alina-patelli/)[Dr. Alina Patelli]
 
